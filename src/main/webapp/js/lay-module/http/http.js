@@ -1,1 +1,0 @@
-const $api="http://localhost:8085/";
