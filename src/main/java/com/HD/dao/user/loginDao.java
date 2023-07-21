@@ -1,4 +1,4 @@
-package com.HD.dao;
+package com.HD.dao.user;
 
 /**
  * @@author vincent
